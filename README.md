@@ -90,7 +90,7 @@ ____
 
 ## Contexto
 
-Esta é uma solução para o [desafio de componente de resumo de resultados no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o [desafio de componente de resumo de resultados no Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 > Seu desafio é criar esse componente de resumo de resultados e deixá-lo o mais próximo possível do design.
 
